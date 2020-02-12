@@ -1,2 +1,2 @@
 # Blog-Tutorials
-Various Tutorials from the Studica Blog site
+Various Tutorials from Studica Blog Articles, includes Source Project Files
